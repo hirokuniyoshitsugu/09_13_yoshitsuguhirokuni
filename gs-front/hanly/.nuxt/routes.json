@@ -1,0 +1,16 @@
+[
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/Users/yoshitsuguhiroshikuni/gs-front/hanly/pages/test/index.vue",
+    "chunkName": "pages/test/index",
+    "_name": "_ceccf71c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/yoshitsuguhiroshikuni/gs-front/hanly/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_72ef8405"
+  }
+]

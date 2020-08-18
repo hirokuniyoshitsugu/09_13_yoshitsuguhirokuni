@@ -1,0 +1,20 @@
+{
+  "BaseButton": {
+    "description": "Auto imported from components/BaseButton.vue"
+  },
+  "LazyBaseButton": {
+    "description": "Auto imported from components/BaseButton.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "SimpleForm": {
+    "description": "Auto imported from components/SimpleForm.vue"
+  },
+  "LazySimpleForm": {
+    "description": "Auto imported from components/SimpleForm.vue"
+  }
+}
